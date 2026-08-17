@@ -2,7 +2,7 @@
 
 A fast, streaming AI chat assistant built from scratch with React, Tailwind CSS, and the Google Gemini API. No backend, no database — just a clean frontend that talks directly to an LLM.
 
-![Flowchat screenshot](./screenshot.png)
+
 
 ## Features
 
