@@ -45,7 +45,7 @@ A fast, streaming AI chat assistant built from scratch with React, Tailwind CSS,
 
 ```bash
 git clone <your-repo-url>
-cd flowchat
+cd ai-chat-assistant
 npm install
 ```
 
